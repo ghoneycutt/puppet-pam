@@ -12,7 +12,7 @@
     "tests/init.pp": "1b580110b1308350f9b09e1bbca0551e",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
-    "Modulefile": "c511cffc5db1b8c898fabb0c9983d9b8",
+    "Modulefile": "7e712cf31b0ae919f501086acf66b83d",
     "manifests/init.pp": "d33c3990dd0040be8458336a7621b405",
     "files/CentOS/login": "48713b57f32d7666d99dcb299673fc30"
   },
