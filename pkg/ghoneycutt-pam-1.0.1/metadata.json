@@ -1,0 +1,23 @@
+{
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "templates/access.conf.erb": "7c7c1aa15122dd3308ddc0368f93d29a",
+    "CHANGELOG": "c1c926302b2ab4ee2933505c0a190cc0",
+    "README": "20cc3bfc313a7030aa6161d1fc5dd325",
+    "files/CentOS/sshd": "1ba10e7460e0447f89926a5bbd02fe35",
+    "tests/init.pp": "1b580110b1308350f9b09e1bbca0551e",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "fd2dd148ed271f55fe65edf312738c90",
+    "manifests/init.pp": "d33c3990dd0040be8458336a7621b405",
+    "files/CentOS/login": "48713b57f32d7666d99dcb299673fc30"
+  },
+  "version": "1.0.1",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-pam",
+  "types": [
+
+  ]
+}
